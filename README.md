@@ -5,8 +5,8 @@ Fullstack Developer
 ------------------
 
 * ✉️  You can contact me at [josuebernardo075@gmail.com](mailto:josuebernardo075@gmail.com)
-* 🧠  I'm learning .NET
-
+* 🧠  I'm learning ASP.NET Core
+ 
 ### Skills
 
 
