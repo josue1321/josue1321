@@ -1,7 +1,7 @@
 Hi 👋 My name is Josué
 ======================
 
-Backend Developer
+Fullstack Developer
 ------------------
 
 * ✉️  You can contact me at [josuebernardo075@gmail.com](mailto:josuebernardo075@gmail.com)
