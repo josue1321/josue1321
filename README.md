@@ -37,8 +37,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=josue1321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=josue1321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&hide=css,html,handlebars" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=josue1321&show_icons=true&include_all_commits=true&theme=dark" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=josue1321&layout=compact&langs_count=6&theme=dark&card_width=320&hide=css,html,handlebars" height="150" alt="languages graph"  />
 </div>
 
 ###
