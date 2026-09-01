@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3b8132?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power BI-FCC624?style=for-the-badge" />
 </div>
 
 ### Reach me
